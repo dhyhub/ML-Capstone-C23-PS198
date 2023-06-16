@@ -3,4 +3,4 @@ this is maching learning area
 
 Dataset 1 : https://bit.ly/DatasetNutriScan
 
-Model 1   : bit.ly/modelMLNutriScan
+Model 1   : [bit.ly/modelMLNutriScan](https://bit.ly/modelMLNutriScan)
